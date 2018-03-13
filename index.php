@@ -1,1 +1,2 @@
-<?php echo("Hello"); ?>
+<?php echo("Hello\n"); ?>
+<?php echo("World\n"); ?>
