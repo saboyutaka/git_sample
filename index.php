@@ -1,3 +1,5 @@
+<?php echo("Helloooooooooooooooooshimabukuro\n"); ?>
+<?php echo("Heeeeeelloooooooooouuuuu\n"); ?>
 <?php echo("Helloooo\nHeeeeeelloooooooooouuuuu\n"); ?>
 <?php echo("World\n"); ?>
 <?php echo("End\n"); ?>
